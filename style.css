@@ -1,0 +1,90 @@
+body{
+    border: 0;
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+     color:  hsl(215, 51%, 70%);
+     height: 1000px;
+     
+    
+}
+.div1{
+    background-color: hsl(217, 54%, 11%);
+    height: 900px;
+   
+    
+}
+.div2{
+    background-color:hsl(216, 50%, 16%) ;
+    width: 375px;
+    
+    
+    border-radius: 20px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    
+}
+
+h1{
+   
+   color:  hsl(0, 0%, 100%);
+}
+h3{
+    color:Soft  hsl(215, 51%, 70%);
+    display: inline;
+   
+}
+p{
+    font-size: 18px;
+
+}
+.name{
+     color: hsl(0, 0%, 100%);
+}
+hr{
+    border: 1px solid hsl(215, 32%, 27%);
+    border-bottom: 0;
+    width: 75%;
+    
+}
+.pi{
+    width: 10%;
+ 
+    
+}
+.para{
+    display: inline;
+    
+}
+.re{
+   display: inline;
+   margin-left: 5px;
+   color:  hsl(215, 51%, 70%);
+ 
+}
+
+.div5{
+   padding-left: 40px;
+    width: 75%;
+}
+.div7{
+    padding-left: 40px;
+    position: relative;
+    color: hsl(178, 100%, 50%);
+}
+.rt{
+    color:  hsl(215, 51%, 70%) ;
+    position:absolute;
+    left: 250px;
+    top: 470px;
+    
+}
+.pro{
+    padding: 20px 40px;
+}
+.pic1{
+ 
+   padding-top:20px;
+   padding-left: 40px; 
+   border-radius:10px;
+}
